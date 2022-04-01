@@ -9,3 +9,23 @@ body {
 /*
 Add some style blocks below this line to style the card.
 */
+
+section {
+    display: block;
+    width: 227px;
+    border-style: solid;
+    border-color: grey;
+    border-width: thin;
+}
+
+p {
+    padding: 0px 10px 0px 10px;
+}
+
+button{
+    margin: 0px 10px 15px 10px;
+}
+
+h2{
+    padding: 0px 10px 0px 10px;
+}
